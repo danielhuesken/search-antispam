@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Search Antispam v0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-12-09 14:58:58+0000\n"
+"Last-Translator: dh <daniel@huesken-net.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: search-antispam.php:0
+#: search-antispam.php:237
+#: search-antispam.php:246
+#@ search-antispam
+msgid "Search Antispam"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: search-antispam.php:0
+#@ search-antispam
+msgid "http://danielhuesken.de/portfolio/search-antispam"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: search-antispam.php:0
+#@ search-antispam
+msgid "Antispam for the WordPress frontend search"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: search-antispam.php:0
+#@ search-antispam
+msgid "Daniel Hüsken"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: search-antispam.php:0
+#@ search-antispam
+msgid "http://danielhuesken.de"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: search-antispam.php:0
+#@ search-antispam
+msgid "0.1"
+msgstr ""
+
+#: search-antispam.php:282
+#@ search-antispam
+msgid "Date"
+msgstr "Datum"
+
+#: search-antispam.php:283
+#@ search-antispam
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+#: search-antispam.php:284
+#@ search-antispam
+msgid "CSS Hack"
+msgstr "CSS Hack"
+
+#: search-antispam.php:285
+#@ search-antispam
+msgid "Nonce"
+msgstr "Nonce"
+
+#: search-antispam.php:286
+#@ search-antispam
+msgid "DNSBL"
+msgstr "DNSBL"
+
+#: search-antispam.php:287
+#@ search-antispam
+msgid "Referrer"
+msgstr "Referrer"
+
+#: search-antispam.php:325
+#@ search-antispam
+msgid "Donate"
+msgstr "Spenden"
+
+#: search-antispam.php:336
+#@ search-antispam
+msgid "Overview"
+msgstr "Übersicht"
+
+#: search-antispam.php:338
+#@ search-antispam
+msgid "Search Antispam comes with ABSOLUTELY NO WARRANTY. This is free software, and you are welcome to redistribute it under certain conditions."
+msgstr "Search Antispam kommt OHNE JEDWEDE GARANTIE. Dies ist freie Software, und Sie sind herzlich eingeladen, es unter bestimmten Bedingungen weitergeben dürfen."
+
+#: search-antispam.php:342
+#@ search-antispam
+msgid "For more information:"
+msgstr "Für mehr Informationen:"
+
+#: search-antispam.php:343
+#@ search-antispam
+msgid "<a href=\"http://wordpress.org/extend/plugins/search-antispam/\" target=\"_blank\">Wordpress Plugin Site</a>"
+msgstr "<a href=\"http://wordpress.org/extend/plugins/search-antispam/\" target=\"_blank\">Wordpress Plugin Seite</a>"
+
+#: search-antispam.php:344
+#@ search-antispam
+msgid "<a href=\"http://danielhuesken.de/portfolio/search-antispam/\" target=\"_blank\">Plugin Site</a>"
+msgstr "<a href=\"http://danielhuesken.de/portfolio/search-antispam/\" target=\"_blank\">Plugin Seite</a>"
+
+#: search-antispam.php:345
+#@ search-antispam
+msgid "<a href=\"http://wordpress.org/extend/plugins/search-antispam/faq/\" target=\"_blank\">FAQ</a>"
+msgstr "<a href=\"http://wordpress.org/extend/plugins/search-antispam/faq/\" target=\"_blank\">FAQ</a>"
+
+#: search-antispam.php:346
+#@ search-antispam
+msgid "<a href=\"http://wordpress.org/tags/search-antispam/\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/search-antispam/\" target=\"_blank\">Support Forums</a>"
+
+#: search-antispam.php:347
+#@ search-antispam
+msgid "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CS7BVQ6TTCRYU\" target=\"_blank\">Donate</a>"
+msgstr "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DYTLEJTRVDWAU\" target=\"_blank\">Spenden</a>"
+
+#: search-antispam.php:348
+#@ search-antispam
+msgid "<a href=\"https://plus.google.com/109825920160870159805/\" target=\"_blank\">Google+</a>"
+msgstr "<a href=\"https://plus.google.com/109825920160870159805/\" target=\"_blank\">Google+</a>"
+
+#: search-antispam.php:355
+#@ search-antispam
+msgid "Antispam"
+msgstr "Antispam"
+
+#: search-antispam.php:357
+#@ search-antispam
+msgid "Generel Settings"
+msgstr "Generelle Einstellungen"
+
+#: search-antispam.php:361
+#@ search-antispam
+msgid "Use CSS Hack"
+msgstr "Benutze CSS Hack"
+
+#: search-antispam.php:364
+#@ search-antispam
+msgid "Check Nonce"
+msgstr "Nonce überprüfen"
+
+#: search-antispam.php:367
+#@ search-antispam
+msgid "Check DNSBL"
+msgstr "DNSBL überprüfen"
+
+#: search-antispam.php:370
+#@ search-antispam
+msgid "Check Referrer"
+msgstr "Referrer überprüfen"
+
+#: search-antispam.php:378
+#@ search-antispam
+msgid "Search Antispam Configuration"
+msgstr "Search Antispam Konfiguration"
+
+#: search-antispam.php:388
+#@ search-antispam
+msgid "Show chart in Dashboard"
+msgstr "Chart im Daschboard anzeigen"
+
+#: search-antispam.php:395
+#@ search-antispam
+msgid "Do not scan logged in users"
+msgstr "Scanne keine eingeloggten Benutzer"
+
+#: search-antispam.php:408
+#@ search-antispam
+msgid "Use a CSS hack to prevent spamming."
+msgstr "Benutze den CSS Hack um Spam zu verhindern."
+
+#: search-antispam.php:419
+#@ search-antispam
+msgid "Use DNS Blacklists to prevent spamming."
+msgstr "Benutze DNS Backlists um Spam vorzubeugen. "
+
+#: search-antispam.php:429
+#@ search-antispam
+msgid "Add a Nonce to serach and check it."
+msgstr "Eine Nonce zu suchen Feld hinzufügen und prüfen."
+
+#: search-antispam.php:439
+#@ search-antispam
+msgid "Check Referrer to prevent spamming."
+msgstr "Referrer Überprüfen um Spam zu verhindern."
+
